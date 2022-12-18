@@ -36,10 +36,14 @@
 
 - Generate new image every time Generate button clicked
 
-Example. 
+## Example. 
 
-![image](https://user-images.githubusercontent.com/78578985/208288735-68456d74-b033-4ac3-8e44-08f212febdf3.png)
-![image](https://user-images.githubusercontent.com/78578985/208288754-a16fcd8d-9e3e-4a71-933c-37492f799320.png)
+![text](https://user-images.githubusercontent.com/78578985/208289308-b0b9ecce-4e08-4c61-802b-677e317935dd.png)
+
+## Generated Images
+![dogonmars2](https://user-images.githubusercontent.com/78578985/208289429-1cb47e08-32e1-4642-9b2a-4b44fc4d8229.png)
+![dogonmars1](https://user-images.githubusercontent.com/78578985/208289430-4211769c-0419-4076-a4d4-5d4497f8f865.png)
+
 
 
 
