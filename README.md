@@ -38,6 +38,8 @@ Generate new image every time Generate button clicked
 
 Example. 
 
+![image](https://user-images.githubusercontent.com/78578985/208288735-68456d74-b033-4ac3-8e44-08f212febdf3.png)
+![image](https://user-images.githubusercontent.com/78578985/208288754-a16fcd8d-9e3e-4a71-933c-37492f799320.png)
 
 
 
